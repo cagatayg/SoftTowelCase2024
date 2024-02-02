@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LuckyWheelButton
+  - MiniTranquality
+  - GameplayUi
+  - AudioManager
+  - NavComponent
+  - CrosswordGrid
+  - LocalNotificationManager
+  - GoldButton
+  - Gold
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: -3
+    uniqueID: 1013291649
+    locked: 0
+  - name: -2
+    uniqueID: 69601661
+    locked: 0
+  - name: -1
+    uniqueID: 3538027967
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2709518251
+    locked: 0
+  - name: 2
+    uniqueID: 882110423
+    locked: 0
+  - name: 3
+    uniqueID: 3351008829
+    locked: 0
+  - name: 4
+    uniqueID: 2066126705
+    locked: 0
